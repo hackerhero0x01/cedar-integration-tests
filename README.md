@@ -13,7 +13,7 @@ This repository contains integration tests for the Cedar policy language. It is 
 ## Test format
 
 
-pip install cedrafedatshdskdj
+pip install cedrafedatssdsasdhdskdj
 
 An integration test is a JSON file with the following fields:
 
