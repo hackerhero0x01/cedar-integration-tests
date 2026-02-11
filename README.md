@@ -20,6 +20,8 @@ An integration test is a JSON file with the following fields:
 * `shouldValidate`: Whether the policy validate using the schema (true/false)
 * `requests`: Sequence of authorization requests and expected results (see below)
 
+pip install sdjhfgdsjhfgjdsfs
+
 Each request has the following fields:
 
 * `description`: Description for the request
